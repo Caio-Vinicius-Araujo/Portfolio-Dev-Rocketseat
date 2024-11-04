@@ -35,7 +35,7 @@ body {
   flex-direction: column;
   width: 100%;
   max-width: 100%;
-  background-image: url(src/assets/Background_Intro.png);
+  background-image: url(/src/assets/Background_Intro.png);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -372,7 +372,7 @@ footer {
   max-width: 100%;
   margin-top: 2.5rem;
   padding: 2.5rem;
-  background-image: url(src/assets/Background_Contacts.png);
+  background-image: url(/src/assets/Background_Contacts.png);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
